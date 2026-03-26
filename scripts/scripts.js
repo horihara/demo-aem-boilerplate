@@ -188,7 +188,7 @@ async function loadPage() {
 
 loadPage();
 
-/////////////////////////
+// ------------------- //
 // Enable Live Preview //
 // Ref: https://docs.da.live/authors/reference/live-preview //
 (async function loadDa() {
